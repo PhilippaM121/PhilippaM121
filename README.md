@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning JavaScript, Python, HTML, and CSS. 
 - 💞️ I’m looking to collaborate with my club :D
 - 📫 How to reach me: email me pleaseee 
+philippam283@edu.sd45.bc.ca ~OR~ philippamorrissey121@gmail.com
 
 <!---
 PhilippaM121/PhilippaM121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
