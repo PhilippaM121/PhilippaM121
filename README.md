@@ -2,8 +2,7 @@
 - 👀 I’m interested in coding, anime, dogs, tennis, rainy days, golf, and good books.
 - 🌱 I’m currently learning JavaScript, Python, HTML, and CSS. 
 - 💞️ I’m looking to collaborate with my club :D
-- 📫 How to reach me: email me pleaseee 
-philippam283@edu.sd45.bc.ca ~OR~ philippamorrissey121@gmail.com
+- 📫 How to reach me: email me pleaseee at philippamorrissey121@gmail.com
 
 <!---
 PhilippaM121/PhilippaM121 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
